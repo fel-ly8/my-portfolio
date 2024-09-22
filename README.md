@@ -1,69 +1,42 @@
+# Portfolio
 
-# Your First HTML Tag Lab
+#### The app is my Portfolio,22/09/2024
 
-## Learning Goals
+#### **By Felister Nyambura**
 
-- Code the first 'div'with 3 containers.
-- code the second 'div' with 2 containers
-- code the third 'div' which is the footer
+## Description
 
-## Introduction
+The application includes a  landing page showing what i do, my education background, some of my projects and their links to my github  and my contact information.
 
-So far, we have a picture in our minds of how our portfolio
-looks like.
+## Setup/Installation Instruction
 
-## Getting Started
+* Download a zip in the code button to the desired folder
+* Extract the files
+* Open the extracted folder with VSCode
+* Go live or open the index.html file with chrome
+* And you are all done
 
-**Fork and clone** this lesson into your local environment. Navigate into its
-directory in the terminal, then run `code .` to open the files in Visual Studio
-Code. Run `npm test` as you go to see your test progress.
+## Live server
 
-## Code the header
+* You can view the web live on [Portfolio](https://(https://fel-ly8.github.io/my-portfolio/))
 
-This is where we introduce the first div for the body,so that we can introduce nav which has a title links and a logo.Now we have completed the header!
+## Known Bugs
 
-## Set the Inner Text
+The application works perfectly well, no bugs.
 
-We create another div for the body and so we need two nav,one that talks more about the portfolio and the other nav contains an image for the owner of the portfolio.
+## Technologies Used
 
-### Viewing Your Work in the Browser
+HTML, CSS , Fontawesome icons, GIT
 
-While working through these assignments, your general workflow should center on
-writing code in the text editor and periodically running the test suite in the
-terminal to check your work.
+## Support and contact details
 
-Another great way to track your progress is to open up the HTML document in your
-browser and watch how each change you make in the text editor affects the visual
-layout in the browser.
+email :: felister17@gmail.com
 
-You can open `index.html` a few ways, depending on the environment you are in:
+### License
 
-For Mac users:
+Licensed under the [MT-license](https://fel-ly8.github.io/my-portfolio/)
 
-- Open from the Terminal by running `open index.html` in the root directory of
-  this lab
-- Use Finder to navigate to this lab's local folder and click the `index.html`
-  file
+Copyright (c) 2024 *Felister Nyambura*
 
-For WSL users:
 
-- Open from Ubuntu by running `explorer.exe index.html` in the root directory of
-  this lab
-- Open a new Explorer window. There is a bar that says "Quick Access" along the
-  top of the window (similar to a URL bar in a browser). Click this and type
-  `\\wsl$` to access files and folders on Ubuntu. Navigate to
-  `/home/<your-user-name>/` to get to your home directory, then locate this
-  lab's local folder and click the `index.html` file.
 
-Once you have the HTML document open in your browser, you can make changes to it
-in a text editor, save the file, refresh the page in the browser, and see the
-changes.
-
-## Conclusion
-
-Congratulations! You have created your own portfolio. Remember to submit your
-work in CodeGrade before moving on.
-
-## Resources
-
-Here is a video walk-through of the lab to help you out['https://www.youtube.com/results?search_query=how+to+create+a+personal+portfolio']
