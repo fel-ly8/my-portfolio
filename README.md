@@ -18,7 +18,7 @@ The application includes a  landing page showing what i do, my education backgro
 
 ## Live server
 
-* You can view the web live on [Portfolio](https://(https://fel-ly8.github.io/my-portfolio/))
+* You can view the web live on [Portfolio](https://fel-ly8.github.io/my-portfolio/)
 
 ## Known Bugs
 
